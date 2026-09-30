@@ -1,0 +1,61 @@
+name: dil_as
+description: "Okul öncesi ve ilkokul çocukları için eğlenerek öğrenme uygulaması."
+publish_to: 'none'
+
+version: 1.0.1+14
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # --- Standart İkonlar ---
+  cupertino_icons: ^1.0.6
+  purchases_flutter: ^10.4.0
+  # --- Firebase Paketleri (Güncel ve Uyumlu) ---
+  firebase_core: ^3.4.0
+  firebase_auth: ^5.2.0
+  cloud_firestore: ^5.3.0
+
+  # --- Uygulama Özellikleri ---
+  provider: ^6.1.2
+  flutter_tts: ^4.0.2
+  shared_preferences: ^2.5.5
+  
+  # 🎉 EĞLENCE PAKETİ
+  confetti: ^0.7.0
+  intl: ^0.19.0
+  firebase_messaging: ^15.2.10
+  flutter_local_notifications: 20.1.0
+  timezone: 0.10.1
+
+  google_mobile_ads: ^5.1.0      # AdMob Reklamları için
+  in_app_purchase: ^3.1.13       # 99.90 TL'lik Satın Alma için
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^3.0.0
+  change_app_package_name: ^1.1.0
+  
+  # Logo Değiştirme Aracı
+  flutter_launcher_icons: ^0.13.1
+
+# --- Flutter Ayarları ---
+flutter:
+  uses-material-design: true
+
+  # ⚠️ DİKKAT: Proje klasöründe 'assets' adında bir klasör yoksa
+  # aşağıdaki 2 satırı silmelisin, yoksa "Dosya bulunamadı" hatası verir.
+  assets:
+    - assets/
+
+# --- Uygulama İkon Ayarları ---
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+  min_sdk_android: 21
