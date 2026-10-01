@@ -8,12 +8,18 @@ Okuma-yazma sürecini oyunlaştıran, görsel ve işitsel hafızayı destekleyen
 
 > Uygulamanın Play Store sürümünden alınan bazı ekran görüntüleri:
 
-![Ekran 1](screenshots/ekran1.png)
-![Ekran 2](screenshots/ekran2.png)
-![Ekran 3](screenshots/ekran3.png)
-![Ekran 4](screenshots/ekran4.png)
+<table>
+  <tr>
+    <td><img src="screenshots/ekran1.png" width="250"></td>
+    <td><img src="screenshots/ekran2.png" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/ekran3.png" width="250"></td>
+    <td><img src="screenshots/ekran4.png" width="250"></td>
+  </tr>
+</table>
 
-## 🛠️ Teknolojiler (Tech Stack)
+## 🛠️️ Teknolojiler (Tech Stack)
 
 - **Mobil Geliştirme:** Flutter & Dart
 - **Backend & Veritabanı:** Firebase (Authentication, Realtime Database)
