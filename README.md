@@ -12,8 +12,6 @@ Okuma-yazma sürecini oyunlaştıran, görsel ve işitsel hafızayı destekleyen
   <tr>
     <td><img src="screenshots/ekran1.png" width="150"></td>
     <td><img src="screenshots/ekran2.png" width="150"></td>
-  </tr>
-  <tr>
     <td><img src="screenshots/ekran3.png" width="150"></td>
     <td><img src="screenshots/ekran4.png" width="150"></td>
   </tr>
