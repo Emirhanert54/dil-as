@@ -1,16 +1,17 @@
-# 🚀 DİL-AS: İnteraktif Eğitim Platformu
+# DİL-AS: İnteraktif Eğitim Platformu
 
 [![Google Play'den İndir](https://img.shields.io/badge/Google_Play-Hemen_İndir-success?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.emirhan.dilas&pcampaignid=web_share)
 
 Okuma-yazma sürecini oyunlaştıran, görsel ve işitsel hafızayı destekleyen mobil eğitim uygulaması. Öğrenciler ve çocuklar için tasarlanmış olan bu platform, interaktif etkinlikler aracılığıyla temel dil becerilerini geliştirmeyi hedefler.
 
-## 📱 Uygulama Arayüzü
+## Uygulama Arayüzü
 
 > Uygulamanın Play Store sürümünden alınan bazı ekran görüntüleri:
-ekran1.png
-ekran2.png
-ekran3.png
-ekran4.png
+
+![Ekran 1](screenshots/ekran1.png)
+![Ekran 2](screenshots/ekran2.png)
+![Ekran 3](screenshots/ekran3.png)
+![Ekran 4](screenshots/ekran4.png)
 
 # DİL-AS: İnteraktif Eğitim Platformu
 
